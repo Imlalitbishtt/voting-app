@@ -1,0 +1,26 @@
+********User Data*******
+
+{
+    "name" : "Lalit Bist",
+    "age" : 22,
+    "email": "Lbist455@gmail.com",
+    "mobile": "896-243-7206",
+    "address": "10 Downing Street",
+    "aadharCardNumber": 2342554598764,
+    "password" : "123456"
+}
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
+eyJpZCI6IjY2ZWIyNDdmNWY2ODMyY2VjMjNhOWM5OCIsImlhdCI6MTcyNjY4NjMzNSwiZXhwIjoxNzI2OTg2MzM1fQ.CzYblW5IcCRU3TWvxeHLypnk9GFXSAUt6yVrDLg4dNU
+
+******Candidate Data********
+{
+    "name": "Narendra Modi",
+    "party": "BJP",
+    "age": 71
+}
+{
+    "name": "Rahul Gandhi",
+    "party": "INC",
+    "age": 51
+}
